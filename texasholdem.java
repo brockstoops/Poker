@@ -38,9 +38,6 @@ public class TexasHoldEm {
 			else
 				this.hand[i] = temp;
 		}
-		//for(int i=0; i<5; i++)
-			//System.out.print(this.hand[i]+" ");
-	//	System.out.println();
 		
 		//Count up the instances if the hands
 		//Doesn't count 4 of a kind as a 3 of a kind hand
